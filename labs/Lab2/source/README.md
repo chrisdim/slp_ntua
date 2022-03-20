@@ -1,5 +1,5 @@
-# COPYRIGHT: Christos Dimopoulos -03117037
-# ECE NTUA - Flow S
+## COPYRIGHT: Christos Dimopoulos -03117037
+## ECE NTUA - Flow S
 ## Speech & Natural Language Processing - 7th Semester
 ## Lab 2: Speech Recognition using Kaldi Toolkit
 
