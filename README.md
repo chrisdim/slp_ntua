@@ -4,8 +4,6 @@ Lab Projects &amp; Theoretical Problems of the Speech &amp; Natural Language Pro
 # Lab Projects
 
 ## 1st Lab Exercise: Introduction to Language Representations
-![image](https://user-images.githubusercontent.com/63000397/159194661-991e664d-36d3-484a-8949-9477a56dac68.png)
-
 The first part involves the creation of an English language Spellchecker using simple language models, based on OpenFST transducers enriched with language informartion. In the second part, pretrained word embeddings (Word2Vec Model, GloVe Embeddings) are used for the creation of a sentiment classifier for text comments found in IMBD.
 
 ## 2nd Lab Exercise: Speech Recognition with Kaldi Toolkit
