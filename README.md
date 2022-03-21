@@ -4,4 +4,4 @@ Lab Projects &amp; Theoretical Problems of the Speech &amp; Natural Language Pro
 # Lab Project
 
 ## 1st Lab Exercise: Introduction to Language Representations
-The first part involves the creation of an English language Spellchecker using simple language models, based on OpenFST transducers enriched with language informartion. In the second part, pretrained word embeddings (Word2Vec Model, GloVe Embeddings) are used for the creation of a sentiment classifier for movie comments found in IMBD.
+The first part involves the creation of an English language Spellchecker using simple language models, based on OpenFST transducers enriched with language informartion. In the second part, pretrained word embeddings (Word2Vec Model, GloVe Embeddings) are used for the creation of a sentiment classifier on text comments found in IMBD.
