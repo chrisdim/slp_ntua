@@ -1,0 +1,129 @@
+digraph FST {
+rankdir = LR;
+size = "8.5,11";
+center = 1;
+orientation = Landscape;
+ranksep = "0.4";
+nodesep = "0.25";
+60 [label = "60", shape = circle, style = bold, fontsize = 14]
+	60 -> 59 [label = "ba:<eps>", fontsize = 14];
+0 [label = "0", shape = doublecircle, style = solid, fontsize = 14]
+1 [label = "1", shape = circle, style = solid, fontsize = 14]
+	1 -> 0 [label = "cha:bacha/1.674", fontsize = 14];
+2 [label = "2", shape = circle, style = solid, fontsize = 14]
+	2 -> 1 [label = "ba:<eps>", fontsize = 14];
+3 [label = "3", shape = circle, style = solid, fontsize = 14]
+	3 -> 2 [label = "ba:daba/1.7047", fontsize = 14];
+4 [label = "4", shape = circle, style = solid, fontsize = 14]
+	4 -> 3 [label = "da:<eps>", fontsize = 14];
+5 [label = "5", shape = circle, style = solid, fontsize = 14]
+	5 -> 4 [label = "da:dada/0.60614", fontsize = 14];
+6 [label = "6", shape = circle, style = solid, fontsize = 14]
+	6 -> 5 [label = "da:<eps>", fontsize = 14];
+7 [label = "7", shape = circle, style = solid, fontsize = 14]
+	7 -> 6 [label = "cha:gacha/0.81093", fontsize = 14];
+8 [label = "8", shape = circle, style = solid, fontsize = 14]
+	8 -> 7 [label = "ga:<eps>", fontsize = 14];
+9 [label = "9", shape = circle, style = solid, fontsize = 14]
+	9 -> 8 [label = "cha:bacha/1.674", fontsize = 14];
+10 [label = "10", shape = circle, style = solid, fontsize = 14]
+	10 -> 9 [label = "ba:<eps>", fontsize = 14];
+11 [label = "11", shape = circle, style = solid, fontsize = 14]
+	11 -> 10 [label = "ba:daba/1.7047", fontsize = 14];
+12 [label = "12", shape = circle, style = solid, fontsize = 14]
+	12 -> 11 [label = "da:<eps>", fontsize = 14];
+13 [label = "13", shape = circle, style = solid, fontsize = 14]
+	13 -> 12 [label = "da:dada/0.60614", fontsize = 14];
+14 [label = "14", shape = circle, style = solid, fontsize = 14]
+	14 -> 13 [label = "da:<eps>", fontsize = 14];
+15 [label = "15", shape = circle, style = solid, fontsize = 14]
+	15 -> 14 [label = "da:gada/1.5041", fontsize = 14];
+16 [label = "16", shape = circle, style = solid, fontsize = 14]
+	16 -> 15 [label = "ga:<eps>", fontsize = 14];
+17 [label = "17", shape = circle, style = solid, fontsize = 14]
+	17 -> 16 [label = "da:dada/0.60614", fontsize = 14];
+18 [label = "18", shape = circle, style = solid, fontsize = 14]
+	18 -> 17 [label = "da:<eps>", fontsize = 14];
+19 [label = "19", shape = circle, style = solid, fontsize = 14]
+	19 -> 18 [label = "cha:gacha/0.81093", fontsize = 14];
+20 [label = "20", shape = circle, style = solid, fontsize = 14]
+	20 -> 19 [label = "ga:<eps>", fontsize = 14];
+21 [label = "21", shape = circle, style = solid, fontsize = 14]
+	21 -> 20 [label = "ga:baga/2.0794", fontsize = 14];
+22 [label = "22", shape = circle, style = solid, fontsize = 14]
+	22 -> 21 [label = "ba:<eps>", fontsize = 14];
+23 [label = "23", shape = circle, style = solid, fontsize = 14]
+	23 -> 22 [label = "ba:chaba/1.1787", fontsize = 14];
+24 [label = "24", shape = circle, style = solid, fontsize = 14]
+	24 -> 23 [label = "cha:<eps>", fontsize = 14];
+25 [label = "25", shape = circle, style = solid, fontsize = 14]
+	25 -> 24 [label = "cha:cha/1.9349", fontsize = 14];
+26 [label = "26", shape = circle, style = solid, fontsize = 14]
+	26 -> 25 [label = "da:dada/0.60614", fontsize = 14];
+27 [label = "27", shape = circle, style = solid, fontsize = 14]
+	27 -> 26 [label = "da:<eps>", fontsize = 14];
+28 [label = "28", shape = circle, style = solid, fontsize = 14]
+	28 -> 27 [label = "ba:baba/0.98083", fontsize = 14];
+29 [label = "29", shape = circle, style = solid, fontsize = 14]
+	29 -> 28 [label = "ba:<eps>", fontsize = 14];
+30 [label = "30", shape = circle, style = solid, fontsize = 14]
+	30 -> 29 [label = "cha:bacha/1.674", fontsize = 14];
+31 [label = "31", shape = circle, style = solid, fontsize = 14]
+	31 -> 30 [label = "ba:<eps>", fontsize = 14];
+32 [label = "32", shape = circle, style = solid, fontsize = 14]
+	32 -> 31 [label = "ba:daba/1.7047", fontsize = 14];
+33 [label = "33", shape = circle, style = solid, fontsize = 14]
+	33 -> 32 [label = "da:<eps>", fontsize = 14];
+34 [label = "34", shape = circle, style = solid, fontsize = 14]
+	34 -> 33 [label = "da:dada/0.60614", fontsize = 14];
+35 [label = "35", shape = circle, style = solid, fontsize = 14]
+	35 -> 34 [label = "da:<eps>", fontsize = 14];
+36 [label = "36", shape = circle, style = solid, fontsize = 14]
+	36 -> 35 [label = "cha:gacha/0.81093", fontsize = 14];
+37 [label = "37", shape = circle, style = solid, fontsize = 14]
+	37 -> 36 [label = "ga:<eps>", fontsize = 14];
+38 [label = "38", shape = circle, style = solid, fontsize = 14]
+	38 -> 37 [label = "cha:bacha/1.674", fontsize = 14];
+39 [label = "39", shape = circle, style = solid, fontsize = 14]
+	39 -> 38 [label = "ba:<eps>", fontsize = 14];
+40 [label = "40", shape = circle, style = solid, fontsize = 14]
+	40 -> 39 [label = "ba:daba/1.7047", fontsize = 14];
+41 [label = "41", shape = circle, style = solid, fontsize = 14]
+	41 -> 40 [label = "da:<eps>", fontsize = 14];
+42 [label = "42", shape = circle, style = solid, fontsize = 14]
+	42 -> 41 [label = "da:dada/0.60614", fontsize = 14];
+43 [label = "43", shape = circle, style = solid, fontsize = 14]
+	43 -> 42 [label = "da:<eps>", fontsize = 14];
+44 [label = "44", shape = circle, style = solid, fontsize = 14]
+	44 -> 43 [label = "da:gada/1.5041", fontsize = 14];
+45 [label = "45", shape = circle, style = solid, fontsize = 14]
+	45 -> 44 [label = "ga:<eps>", fontsize = 14];
+46 [label = "46", shape = circle, style = solid, fontsize = 14]
+	46 -> 45 [label = "da:dada/0.60614", fontsize = 14];
+47 [label = "47", shape = circle, style = solid, fontsize = 14]
+	47 -> 46 [label = "da:<eps>", fontsize = 14];
+48 [label = "48", shape = circle, style = solid, fontsize = 14]
+	48 -> 47 [label = "cha:gacha/0.81093", fontsize = 14];
+49 [label = "49", shape = circle, style = solid, fontsize = 14]
+	49 -> 48 [label = "ga:<eps>", fontsize = 14];
+50 [label = "50", shape = circle, style = solid, fontsize = 14]
+	50 -> 49 [label = "ga:ga/2.3026", fontsize = 14];
+51 [label = "51", shape = circle, style = solid, fontsize = 14]
+	51 -> 50 [label = "ba:baba/0.98083", fontsize = 14];
+52 [label = "52", shape = circle, style = solid, fontsize = 14]
+	52 -> 51 [label = "ba:<eps>", fontsize = 14];
+53 [label = "53", shape = circle, style = solid, fontsize = 14]
+	53 -> 52 [label = "cha:gacha/0.81093", fontsize = 14];
+54 [label = "54", shape = circle, style = solid, fontsize = 14]
+	54 -> 53 [label = "ga:<eps>", fontsize = 14];
+55 [label = "55", shape = circle, style = solid, fontsize = 14]
+	55 -> 54 [label = "cha:dacha/2.3979", fontsize = 14];
+56 [label = "56", shape = circle, style = solid, fontsize = 14]
+	56 -> 55 [label = "da:<eps>", fontsize = 14];
+57 [label = "57", shape = circle, style = solid, fontsize = 14]
+	57 -> 56 [label = "da:chada/0.95551", fontsize = 14];
+58 [label = "58", shape = circle, style = solid, fontsize = 14]
+	58 -> 57 [label = "cha:<eps>", fontsize = 14];
+59 [label = "59", shape = circle, style = solid, fontsize = 14]
+	59 -> 58 [label = "ba:baba/0.98083", fontsize = 14];
+}

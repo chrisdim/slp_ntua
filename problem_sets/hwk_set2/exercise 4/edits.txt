@@ -1,0 +1,56 @@
+any e
+eh	<eps>	1.29999995
+n	<eps>	1.29999995
+
+any e
+<eps>	m	1.29999995
+
+any men
+<eps>	m	1.29999995
+iy	<eps>	1.29999995
+
+any per
+eh	<eps>	1.29999995
+iy	er	1
+n	p	1
+
+any persons
+<eps>	p	1.29999995
+iy	z	1
+<eps>	uh	1.29999995
+<eps>	s	1.29999995
+eh	er	0.5
+
+any sons
+<eps>	s	1.29999995
+iy	z	1
+eh	uh	1
+
+any suns
+<eps>	s	1.29999995
+iy	z	1
+eh	uh	1
+
+any to
+eh	<eps>	1.29999995
+iy	uw	1
+n	t	1
+
+any tomb
+eh	t	1
+iy	m	1
+n	uw	1
+
+any too
+eh	<eps>	1.29999995
+iy	uw	1
+n	t	1
+
+any two
+eh	<eps>	1.29999995
+iy	uw	1
+n	t	1
+
+
+
+

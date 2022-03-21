@@ -1,0 +1,37 @@
+digraph FST {
+rankdir = LR;
+size = "8.5,11";
+center = 1;
+orientation = Landscape;
+ranksep = "0.4";
+nodesep = "0.25";
+0 [label = "0", shape = doublecircle, style = bold, fontsize = 14]
+	0 -> 0 [label = "ba:ba/1.7272", fontsize = 14];
+	0 -> 0 [label = "cha:cha/1.9349", fontsize = 14];
+	0 -> 0 [label = "da:da/1.4088", fontsize = 14];
+	0 -> 0 [label = "ga:ga/2.3026", fontsize = 14];
+	0 -> 1 [label = "ba:<eps>", fontsize = 14];
+	0 -> 2 [label = "cha:<eps>", fontsize = 14];
+	0 -> 3 [label = "da:<eps>", fontsize = 14];
+	0 -> 4 [label = "ga:<eps>", fontsize = 14];
+1 [label = "1", shape = circle, style = solid, fontsize = 14]
+	1 -> 0 [label = "ba:baba/0.98083", fontsize = 14];
+	1 -> 0 [label = "cha:bacha/1.674", fontsize = 14];
+	1 -> 0 [label = "da:bada/2.7726", fontsize = 14];
+	1 -> 0 [label = "ga:baga/2.0794", fontsize = 14];
+2 [label = "2", shape = circle, style = solid, fontsize = 14]
+	2 -> 0 [label = "ba:chaba/1.1787", fontsize = 14];
+	2 -> 0 [label = "cha:chacha/1e+06", fontsize = 14];
+	2 -> 0 [label = "da:chada/0.95551", fontsize = 14];
+	2 -> 0 [label = "ga:chaga/1.8718", fontsize = 14];
+3 [label = "3", shape = circle, style = solid, fontsize = 14]
+	3 -> 0 [label = "ba:daba/1.7047", fontsize = 14];
+	3 -> 0 [label = "cha:dacha/2.3979", fontsize = 14];
+	3 -> 0 [label = "da:dada/0.60614", fontsize = 14];
+	3 -> 0 [label = "ga:daga/3.091", fontsize = 14];
+4 [label = "4", shape = circle, style = solid, fontsize = 14]
+	4 -> 0 [label = "ba:gaba/1e+06", fontsize = 14];
+	4 -> 0 [label = "cha:gacha/0.81093", fontsize = 14];
+	4 -> 0 [label = "da:gada/1.5041", fontsize = 14];
+	4 -> 0 [label = "ga:gaga/1.5041", fontsize = 14];
+}
