@@ -1,0 +1,10 @@
+{
+  "0": {
+    "name": "NEGATIVE",
+    "desc": "-"
+  },
+  "1": {
+    "name": "POSITIVE",
+    "desc": "+"
+  }
+}
